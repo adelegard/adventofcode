@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "go": "ts-node src/year2020/day1/index.ts"
+    "go": "ts-node src/year2020/day3/part1/index.ts"
   },
   "repository": {
     "type": "git",
